@@ -107,6 +107,3 @@ These insights could help organizations:
 
 ## 👤 Author
 **Aqib**  
-
-
-📫 *Open to Data Analyst & Junior ML roles*
